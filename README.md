@@ -66,15 +66,6 @@
 
 ---
 
-### 📊 GitHub Stats & KPIs
-
-<p align="center">
-  <img src="https://github-readme-stats-ten-sable-63.vercel.app/api?username=kasifraza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats-ten-sable-63.vercel.app/api/top-langs/?username=kasifraza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</p>
-
----
-
 ### 🔥 Contribution Streak
 
 <p align="center">
