@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./kasif-raza.jpeg" width="150" style="border-radius: 50%;" alt="Kasif Raza"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Kasif Raza</h1>
 <h3 align="center">Backend-focused Full Stack Developer | Node.js • NestJS • React • Next.js</h3>
 
@@ -122,14 +126,6 @@
 **Mobile**
 
 ![React Native](https://img.shields.io/badge/React_Native_(Learning)-20232A?style=flat&logo=react&logoColor=61DAFB)
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Catalyst Public School](https://github.com/kasifraza/catalyst-school-kiro) | Complete school website with admissions, academics & more | Next.js, TypeScript, Tailwind |
 
 ---
 
