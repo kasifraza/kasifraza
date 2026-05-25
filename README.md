@@ -34,7 +34,7 @@
 | 🟡 Full-time Opportunities | Open to discuss |
 | 💬 Consulting / Code Reviews | Available on weekends |
 
-> 📄 **[Download My Resume](./Kasif_Raza_Resume.pdf)** *(coming soon)*
+> 📄 **[Download My Resume](./Kasif_Raza_Resume.pdf)**
 
 ---
 
@@ -69,8 +69,8 @@
 ### 📊 GitHub Stats & KPIs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasifraza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasifraza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-ten-sable-63.vercel.app/api?username=kasifraza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-ten-sable-63.vercel.app/api/top-langs/?username=kasifraza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
 ---
