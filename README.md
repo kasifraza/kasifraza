@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://github.com/kasifraza"><img src="https://img.shields.io/github/followers/kasifraza?label=Followers&style=social" alt="GitHub Followers"></a>
   <img src="https://komarev.com/ghpvc/?username=kasifraza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Available_for-Freelance-brightgreen?style=flat" alt="Available for Freelance"/>
 </p>
 
 ---
@@ -15,12 +16,53 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on **scalable backend systems with NestJS & microservices**
-- 💼 Full Stack Developer at **Netoyed**
+- 💼 Full Stack Developer at **Netoyed** (UX4G — MEITY, Government of India)
 - 🧠 Primarily a **Backend Developer** (Node.js / NestJS) with full stack capabilities
 - 🌱 Exploring **AI integrations, MCP servers, React Native**
 - 💬 Ask me about **NestJS, Node.js, PostgreSQL, Microservices, Docker, AWS**
 - 🌐 Portfolio: [kasif-raza.vercel.app](https://kasif-raza.vercel.app/)
 - 📫 Reach me at **kasifraza910@gmail.com**
+
+---
+
+### 📅 Availability
+
+| Type | Status |
+|------|--------|
+| 🟢 Freelance Projects | **Available** |
+| 🟢 Open Source Collaboration | **Available** |
+| 🟡 Full-time Opportunities | Open to discuss |
+| 💬 Consulting / Code Reviews | Available on weekends |
+
+> 📄 **[Download My Resume](./Kasif_Raza_Resume.pdf)** *(coming soon)*
+
+---
+
+### 🏢 Work Experience
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│  Jan 2025 - Present    Node.js Developer                                   │
+│  ████████████████████  Netoyed (UX4G) — MEITY, Government of India         │
+│                        • UX4G Audit 360 Tool (AI-powered auditing)          │
+│                        • IAS Community App                                  │
+│                        • NBT Backend                                        │
+│                        • JNRDDC Portal                                      │
+│                                                                             │
+│  Apr 2022 - Dec 2024   Software Developer                                  │
+│  ████████████████████  Indicsoft Technologies Pvt Ltd — Noida, UP           │
+│                        • Swachh Bharat Mission Portal (MoHUA)               │
+│                        • IMC Indore                                         │
+│                        • WAIT (Warehouse AI System)                         │
+│                        • Hajj Umrah SaaS Platform                           │
+│                                                                             │
+│  Oct 2021 - Mar 2022   Software Engineer Trainee                            │
+│  ████████████████████  Indicsoft Technologies Pvt Ltd — Noida, UP           │
+│                        • Started career as intern, learned full stack dev   │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -37,6 +79,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kasifraza&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🐍 Snake eating my contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kasifraza/kasifraza/output/github-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
