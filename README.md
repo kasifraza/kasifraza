@@ -176,6 +176,7 @@
 |---------|---------|-----------|
 | [@kasifraza/env-validator](https://www.npmjs.com/package/@kasifraza/env-validator) | [![npm](https://img.shields.io/npm/v/@kasifraza/env-validator?color=brightgreen)](https://www.npmjs.com/package/@kasifraza/env-validator) | [![downloads](https://img.shields.io/npm/dw/@kasifraza/env-validator)](https://www.npmjs.com/package/@kasifraza/env-validator) |
 | [@kasifraza/nestjs-response-formatter](https://www.npmjs.com/package/@kasifraza/nestjs-response-formatter) | [![npm](https://img.shields.io/npm/v/@kasifraza/nestjs-response-formatter?color=brightgreen)](https://www.npmjs.com/package/@kasifraza/nestjs-response-formatter) | [![downloads](https://img.shields.io/npm/dw/@kasifraza/nestjs-response-formatter)](https://www.npmjs.com/package/@kasifraza/nestjs-response-formatter) |
+| [@kasifraza/nestjs-logger](https://www.npmjs.com/package/@kasifraza/nestjs-logger) | [![npm](https://img.shields.io/npm/v/@kasifraza/nestjs-logger?color=brightgreen)](https://www.npmjs.com/package/@kasifraza/nestjs-logger) | [![downloads](https://img.shields.io/npm/dw/@kasifraza/nestjs-logger)](https://www.npmjs.com/package/@kasifraza/nestjs-logger) |
 
 ---
 
