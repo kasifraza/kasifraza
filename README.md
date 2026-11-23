@@ -43,14 +43,16 @@
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
-│  Jan 2025 - Present    Node.js Developer                                   │
-│  ████████████████████  Netoyed (UX4G) — MEITY, Government of India         │
+│  Jan 2025 - Present    SDE-II Software Developer                            │
+│  ████████████████████  Netoyed (UX4G) — MEITY, Government of India)         │
 │                        • UX4G Audit 360 Tool (AI-powered auditing)          │
 │                        • IAS Community App                                  │
 │                        • NBT Backend                                        │
 │                        • JNRDDC Portal                                      │
+│                        • UX4G Design System 3.0                             │
+│                        • International Solar Alliance                       │
 │                                                                             │
-│  Apr 2022 - Dec 2024   Software Developer                                  │
+│  Apr 2022 - Dec 2024   Software Developer                                   │
 │  ████████████████████  Indicsoft Technologies Pvt Ltd — Noida, UP           │
 │                        • Swachh Bharat Mission Portal (MoHUA)               │
 │                        • IMC Indore                                         │
