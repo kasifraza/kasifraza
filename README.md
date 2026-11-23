@@ -20,7 +20,7 @@
 - 🧠 Primarily a **Backend Developer** (Node.js / NestJS) with full stack capabilities
 - 🌱 Exploring **AI integrations, MCP servers, React Native**
 - 💬 Ask me about **NestJS, Node.js, PostgreSQL, Microservices, Docker, AWS**
-- 🌐 Portfolio: [kasif-raza.vercel.app](https://kasif-raza.vercel.app/)
+- 🌐 Portfolio: [kasifraza.in](https://www.kasifraza.in/)
 - 📫 Reach me at **kasifraza910@gmail.com**
 
 ---
