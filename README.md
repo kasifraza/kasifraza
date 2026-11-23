@@ -34,7 +34,7 @@
 | 🟡 Full-time Opportunities | Open to discuss |
 | 💬 Consulting / Code Reviews | Available on weekends |
 
-> 📄 **[Download My Resume]([./Kasif_Raza_Resume.pdf](https://www.kasifraza.in/resume.pdf))**
+> 📄 **[Download My Resume](https://www.kasifraza.in/resume.pdf)**
 
 ---
 
